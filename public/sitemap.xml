@@ -8,11 +8,22 @@
     <loc>http://example.org/</loc>
     <lastmod>2023-05-22T20:47:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://example.org/categories/career/</loc>
     <lastmod>2023-05-22T20:47:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2023-05-22T20:47:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/interview/</loc>
+    <lastmod>2023-05-22T20:47:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2023-05-22T20:47:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/reflection/</loc>
+    <lastmod>2023-05-22T20:47:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2023-05-22T20:47:23+08:00</lastmod>
   </url>
 </urlset>

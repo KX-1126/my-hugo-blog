@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog of Kai Xiang</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Blog of Kai Xiang</description>
+    <title>Reflection on Blog of Kai Xiang</title>
+    <link>http://example.org/tags/reflection/</link>
+    <description>Recent content in Reflection on Blog of Kai Xiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 20:47:23 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 20:47:23 +0800</lastBuildDate><atom:link href="http://example.org/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20&#43;场暑期实习面试总结</title>
       <link>http://example.org/posts/summary-of-20plus-internship-interviews/</link>
