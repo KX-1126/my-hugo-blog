@@ -1,17 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme= 'diary'
-
-[[menu.main]]
-url = "/categories"
-name = "Categories"
-weight = 2
-[[menu.main]]
-url = "/tags"
-name = "Tags"
-weight = 3
-[[menu.main]]
-url = "/posts"
-name = "Archive"
-weight = 1
+title = 'Blog of Kai Xiang'
+theme= 'paper'
